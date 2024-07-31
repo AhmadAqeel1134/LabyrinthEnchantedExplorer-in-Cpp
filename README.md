@@ -1,4 +1,4 @@
-Note: This was a group project.
+Note: This group project was done in collaboration with my mates WajahatUllan and Momin Munir (https://github.com/MominMunir).
 
 This is a inventory based enchanted explorer game. 
 AVL tree data structure is used to manage inventory and array data structure is used for maze generation.
